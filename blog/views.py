@@ -1,5 +1,5 @@
 from django.shortcuts import render, get_object_or_404
-from .model import Post
+from .models import Post
 from django.http import Http404
 
 def post_list(request):
