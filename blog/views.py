@@ -27,7 +27,8 @@ def post_share(request, post_id):
     else:
         form = EmailPostForm()
     return render(request, 'blog/post/share.xhtml', {'post': post,
-                                                    'form': form})
+                                                    'form': form,
+                                                    'sent': sent})
 
 class PostListView(ListView):
     """
