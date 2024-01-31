@@ -23,7 +23,7 @@ def post_comment(request, post_id):
                            {'post': post,
                             'form': form,
                             'comment': comment})
-                            
+
 def post_share(request, post_id):
     # Retrieve post by id
     post = get_object_or_404(Post, id=post_id, status=Post.Status.PUBLISHED)
@@ -82,6 +82,12 @@ def post_detail(request, year, month, day, post):
                         publish__year=year,
                         publish__month=month,
                         publish__day=day)
+    # List of active comments for this post
+    comments = post.comments.filter(active=True)
+    # Form for users to comment
+    form = CommentForm()
     return render(request,
                 'blog/post/detail.xhtml',
-                {'post': post})
+                {'post': post,
+                'comments': comments,
+                'form': form})
