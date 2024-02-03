@@ -3,3 +3,4 @@ Django==5.0.1
 sqlparse==0.4.2
 django-taggit==5.0.1
 markdown==3.4.1
+psycopg2_binary==2.9.9

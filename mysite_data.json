@@ -1,0 +1,1465 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2024-01-30T10:51:56.084Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "blog application",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2024-01-30T12:13:24.715Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "blog application",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Slug\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2024-01-30T16:20:25.947Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "How Bose Founded an Army to Fight the British",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2024-01-30T16:22:29.156Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "How Bose Founded an Army to Fight the British",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2024-01-30T16:32:29.126Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "New title",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2024-01-30T16:34:07.228Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Rajiv Dixit",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2024-01-30T16:34:48.770Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "How Bose Founded an Army to Fight the British",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2024-01-30T16:39:20.464Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Whew! A Parenting Goal for the Teenage Years",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2024-01-30T16:41:29.706Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "5 Food Additives: A Dietitian’s Take",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2024-01-30T16:43:22.486Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "What makes a blog successful?",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2024-01-30T16:43:31.044Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "What makes a blog successful?",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2024-01-30T16:46:03.325Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "9",
+    "object_repr": "Tiny Tokens of Affection: 7 Lovely Small Gift Ideas for Loved Ones",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2024-01-31T13:11:48.990Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "2",
+    "object_repr": "Comment by Aresh on What makes a blog successful?",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Active\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2024-02-01T12:49:14.557Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "How Bose Founded an Army to Fight the British",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2024-02-01T12:49:58.596Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Rajiv Dixit",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2024-02-01T12:50:26.027Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Rajiv Dixit",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2024-02-01T12:50:55.787Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "6",
+    "object_repr": "Indian",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2024-02-01T12:50:55.792Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "7",
+    "object_repr": "activist",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2024-02-01T12:51:04.240Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Rajiv Dixit",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2024-02-01T12:51:24.932Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Rajiv Dixit",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2024-02-01T12:52:32.017Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Whew! A Parenting Goal for the Teenage Years",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2024-02-01T12:52:55.841Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "5 Food Additives: A Dietitian’s Take",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2024-02-01T12:53:24.491Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "9",
+    "object_repr": "Tiny Tokens of Affection: 7 Lovely Small Gift Ideas for Loved Ones",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2024-02-01T12:53:44.791Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "What makes a blog successful?",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 25,
+  "fields": {
+    "action_time": "2024-02-01T12:54:00.761Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "What makes a blog successful?",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 26,
+  "fields": {
+    "action_time": "2024-02-01T14:27:13.345Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "2",
+    "object_repr": "akkinet",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 27,
+  "fields": {
+    "action_time": "2024-02-01T14:27:46.936Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "10",
+    "object_repr": "A Healthy Life: The Ultimate Wealth",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 28,
+  "fields": {
+    "action_time": "2024-02-02T09:05:55.338Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "11",
+    "object_repr": "Markdown post",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 29,
+  "fields": {
+    "action_time": "2024-02-02T09:06:37.872Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "11",
+    "object_repr": "Markdown post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 30,
+  "fields": {
+    "action_time": "2024-02-02T09:07:28.215Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "11",
+    "object_repr": "Markdown post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 31,
+  "fields": {
+    "action_time": "2024-02-02T09:13:06.019Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "12",
+    "object_repr": "The Impact of Sports: A Comprehensive Overview",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 32,
+  "fields": {
+    "action_time": "2024-02-02T09:14:02.395Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "12",
+    "object_repr": "The Impact of Sports: A Comprehensive Overview",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 33,
+  "fields": {
+    "action_time": "2024-02-02T09:21:34.836Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "10",
+    "object_repr": "A Healthy Life: The Ultimate Wealth",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 34,
+  "fields": {
+    "action_time": "2024-02-02T09:21:58.605Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "12",
+    "object_repr": "The Impact of Sports: A Comprehensive Overview",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 35,
+  "fields": {
+    "action_time": "2024-02-02T09:23:22.349Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "11",
+    "object_repr": "Markdown post",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 36,
+  "fields": {
+    "action_time": "2024-02-03T08:45:22.215Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "1",
+    "object_repr": "localhost:8000",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add post",
+    "content_type": 7,
+    "codename": "add_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change post",
+    "content_type": 7,
+    "codename": "change_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete post",
+    "content_type": 7,
+    "codename": "delete_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view post",
+    "content_type": 7,
+    "codename": "view_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add comment",
+    "content_type": 8,
+    "codename": "add_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change comment",
+    "content_type": 8,
+    "codename": "change_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete comment",
+    "content_type": 8,
+    "codename": "delete_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view comment",
+    "content_type": 8,
+    "codename": "view_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add tag",
+    "content_type": 9,
+    "codename": "add_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change tag",
+    "content_type": 9,
+    "codename": "change_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete tag",
+    "content_type": 9,
+    "codename": "delete_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view tag",
+    "content_type": 9,
+    "codename": "view_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add tagged item",
+    "content_type": 10,
+    "codename": "add_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change tagged item",
+    "content_type": 10,
+    "codename": "change_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete tagged item",
+    "content_type": 10,
+    "codename": "delete_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view tagged item",
+    "content_type": 10,
+    "codename": "view_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 41,
+  "fields": {
+    "name": "Can add site",
+    "content_type": 11,
+    "codename": "add_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 42,
+  "fields": {
+    "name": "Can change site",
+    "content_type": 11,
+    "codename": "change_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 43,
+  "fields": {
+    "name": "Can delete site",
+    "content_type": 11,
+    "codename": "delete_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 44,
+  "fields": {
+    "name": "Can view site",
+    "content_type": 11,
+    "codename": "view_site"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$720000$J8xxkVwshyIHJPjMXdqmZu$8QbEvHkj5QoO1cQm8xuzethgNTdeveIrylsSNB4F7Ww=",
+    "last_login": "2024-02-03T08:42:20.842Z",
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "",
+    "last_name": "",
+    "email": "admin@admin.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2024-01-30T10:42:39.215Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$720000$1Sad5dhttZblG2gxbsNTLR$whiLmjtGfIwT03wQt3kKQJ2hCcuf4yQvdh0wywZ2TCw=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "akkinet",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-02-01T14:27:12.623Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "blog",
+    "model": "post"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "blog",
+    "model": "comment"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "taggit",
+    "model": "tag"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 10,
+  "fields": {
+    "app_label": "taggit",
+    "model": "taggeditem"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 11,
+  "fields": {
+    "app_label": "sites",
+    "model": "site"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "le7wg8dmuh65pkhxm5u3y78nndlwh9xw",
+  "fields": {
+    "session_data": ".eJxVjE0OgjAYBe_StWksbSm4dM8ZyPcrqGkTCivj3ZWEhW7fzLyXGWFbp3Grsowzm4tx5vS7IdBD8g74DvlWLJW8LjPaXbEHrXYoLM_r4f4dTFCnb62NRhRPHSUCpc5HjQmScu-6hOoDKomLjK73Z4UQWFpNoREXGoY2mvcHG4s4_g:1rWBbQ:Do4lmm5JJyT1w7GQPKciRz8Wn5yzAXXHW76IQXoJXhE",
+    "expire_date": "2024-02-17T08:42:20.849Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "udkklye4ufc3ihru6c8f8rb5kvgn44ri",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hAIHTp16d4zkBkGpGogKe3KeHdt0oVu_3vvv1SgbS1h62kJs6izsur0uzHFR6o7kDvVW9Ox1XWZWe-KPmjX1ybpeTncv4NCvXxrl1m8cBwNGmczRqI0AaIfrLAzToghmslk8NkO6MBjsg7JwwgIMKj3B-4lN0w:1rV45t:8hsTwNJtF1u0YwA0asp7hvPyuIEJeaaUOfrSmm3lbJQ",
+    "expire_date": "2024-02-14T06:29:09.030Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "zoukbus76o6owevhbyo7rmcf65vb8202",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hAIHTp16d4zkBkGpGogKe3KeHdt0oVu_3vvv1SgbS1h62kJs6izsur0uzHFR6o7kDvVW9Ox1XWZWe-KPmjX1ybpeTncv4NCvXxrl1m8cBwNGmczRqI0AaIfrLAzToghmslk8NkO6MBjsg7JwwgIMKj3B-4lN0w:1rUlbv:vd72C5VNMeg3rupahK0e_lcnQv4oWb7qT8hZGBpwmc4",
+    "expire_date": "2024-02-13T10:44:59.940Z"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 3,
+  "fields": {
+    "title": "One more post",
+    "slug": "one-more-post",
+    "author": 1,
+    "body": "Post body.",
+    "publish": "2024-01-30T12:11:40.335Z",
+    "created": "2024-01-30T12:11:40.335Z",
+    "updated": "2024-01-30T12:11:40.335Z",
+    "status": "DF"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 4,
+  "fields": {
+    "title": "How Bose Founded an Army to Fight the British",
+    "slug": "how-bose-founded-an-army-to-fight-the-british",
+    "author": 1,
+    "body": "Subhas Chandra Bose was an Indian nationalist who defied British rule in India and sought foreign allies to liberate his country.\r\n\r\nHe was born in 1897 in Bengal, a province that was often at the forefront of the Indian freedom struggle. He was educated in India and England and joined the Indian civil service, but soon resigned to join the Congress party led by Gandhi.\r\n\r\nBose became a prominent leader of the Congress and was elected its president twice, but he clashed with Gandhi over the methods and goals of the independence movement. He advocated for a more militant and socialist approach, while Gandhi favoured non-violence and cooperation with the British.\r\n\r\nIn 1941, Bose escaped from house arrest and made his way to Germany, where he hoped to enlist the support of Hitler for his cause. He formed the Indian Legion, a unit of Indian soldiers who had been captured by the Nazis in North Africa.\r\n\r\nHe also established the Azad Hind Radio, which broadcasted his speeches and propaganda to India and the world. He called himself Netaji, meaning respected leader, and urged Indians to rise up against the British colonialists.\r\n\r\nIn 1943, Bose left Germany and travelled to Japan, where he took command of the Indian National Army, or INA, a force of Indian prisoners of war and civilians who had joined the Japanese invasion of Southeast Asia.\r\n\r\nHe declared the formation of a provisional government of free India in Singapore and led the INA in a campaign to reach Delhi, the capital of India. However, his army faced heavy resistance from the British and their allies and was eventually forced to retreat.\r\n\r\nBose died in a plane crash in Taiwan in 1945, shortly after Japan surrendered. His death remains a mystery and a source of controversy for many Indians. His legacy is also mixed, as he is admired for his courage and patriotism, but criticized for his alliances with fascist powers.",
+    "publish": "2024-01-30T16:19:37Z",
+    "created": "2024-01-30T16:20:25.944Z",
+    "updated": "2024-02-01T12:49:14.545Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 5,
+  "fields": {
+    "title": "Rajiv Dixit",
+    "slug": "rajiv-dixit",
+    "author": 1,
+    "body": "Rajiv Dixit first garnered attention in the early 1990s through his establishment of the Azadi Bachao Andolan (translated as, Save Freedom Movement).\r\n\r\nA renown activist and influential orator, Rajiv Dixit rose to popularity due to his claims of heavy adulteration in foreign products and Swadeshi over Videshi slogan between 2000 and 2009.\r\n\r\nDixit became famous while serving as an aide to yoga guru, Swami Ramdev, whose anti-corruption organization, Bharat Swabhiman Andolan he served in, in the capacity of national secretary.",
+    "publish": "2024-01-30T16:33:33Z",
+    "created": "2024-01-30T16:34:07.224Z",
+    "updated": "2024-02-01T12:51:24.921Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 6,
+  "fields": {
+    "title": "Whew! A Parenting Goal for the Teenage Years",
+    "slug": "whew-a-parenting-goal-for-the-teenage-years",
+    "author": 1,
+    "body": "Last night, I got back from Paris…\r\n\r\nI ran into our house and enveloped the boys in bear hugs. They looked like they’d each grown a foot since Tuesday, and it was a joyful reunion.\r\n\r\nFor the next hour, we had tacos and hung out, and then I shifted into Mom Mode™ and announced that it was time to turn off screens, take showers, and get ready for bed. We were all exhausted, and this scene ensued:\r\n\r\n“Can’t I just play video games?” asked one of them.\r\n“No, it’s time for bed,” I answered.\r\n“Come on, Mom, please?!!”\r\n“No, honey, it’s definitely bedtime.”\r\n\r\nAnd then came those dreaded words of an overtired preteen: “Ugh, Mom! I hate you!” and the bedroom door slammed.\r\n\r\nStanding there in the hallway, at first, I grouchily thought to myself, FINE! I do so much for you guys, and I left for only five nights so I wouldn’t be gone for too long, and I’m awake for you right now even though I’m jet-lagged and tired… I wanted to storm into my room and not say a word so he’d feel bad and have to come find me — a dramatic approach I might have done to a friend back in high school.",
+    "publish": "2024-01-30T16:38:51Z",
+    "created": "2024-01-30T16:39:20.462Z",
+    "updated": "2024-02-01T12:52:32.007Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 7,
+  "fields": {
+    "title": "5 Food Additives: A Dietitian’s Take",
+    "slug": "5-food-additives-a-dietitians-take",
+    "author": 1,
+    "body": "Brominated vegetable oil is a blend of bromine and vegetable oil that prevents beverages from separating by thickening the flavoring syrups and oils.\r\n\r\nCommonly found in:\r\n\r\nCitrus-flavored sodas, sports drinks, and energy drinks\r\n\r\nShould it be avoided?\r\n\r\nYes, a void drinks with added brominated vegetable oils or just stick to seltzer or water.\r\n\r\n“Many studies have shown that bromine consumption can lead to accumulation in certain tissues, like your thyroid,” Tarnacki explains. “This can potentially lead to issues with hormone regulation, and growth and development.”\r\n\r\nCurrently banned in Europe and Japan, the chemical was actually removed from the FDA’s “generally regarded as safe” list in the late 1960s. Because not enough evidence existed to restrict use all together, it was and is still allowed in fruit-flavored beverages to this day. That may be changing soon, though.",
+    "publish": "2024-01-30T16:41:09Z",
+    "created": "2024-01-30T16:41:29.703Z",
+    "updated": "2024-02-01T12:52:55.829Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 8,
+  "fields": {
+    "title": "What makes a blog successful?",
+    "slug": "what-makes-a-blog-successful",
+    "author": 1,
+    "body": "All of the blogs shared above have one thing in common — they are widely successful.\r\n\r\nThat’s because the majority of them follow the same formula. Moreover, they were able to adopt new trends and adapt to their readership.\r\n\r\nSo, what’s the secret formula to success? Here’s a short overview.\r\n\r\nHaving an engaged readership and an online community\r\nImagine having a very expensive car that runs on fuel but has no fuel tank.\r\n\r\nThat’s what a great blog would look like with no engaged readership. Your readers are the ones who drive the success of your blog by reading, commenting, sharing, and more.\r\n\r\nBeing active on social media\r\nConnect your blog to social media and post engaging content to attract new followers and readers.\r\n\r\nYou don’t have to be active on all media. Instead, try using analytics tools to see where your potential readers could be the most active. For example, photographer bloggers will focus on platforms such as Instagram.\r\n\r\nProperly selected niche\r\nIf you select a niche that’s not too broad or too narrow, you’ll be able to attract just the right amount of readers to whom you’ll be able to sell targeted products and services.\r\n\r\nPublishing consistently\r\nWith tens of thousands of blog posts published daily, your blog can fall into oblivion if you don’t update it regularly with fresh content. In fact, consistency is often a stumbling block for many new bloggers who want immediate fame and fortune.\r\n\r\nHaving a good blog design\r\nUnintuitive and cluttered design can become a real obstacle in attracting new visitors and readers. A strong design, on the other hand, will help you to gain trust as soon as someone lands on your blog.",
+    "publish": "2024-01-30T16:42:33Z",
+    "created": "2024-01-30T16:43:22.483Z",
+    "updated": "2024-02-01T12:54:00.749Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 9,
+  "fields": {
+    "title": "Tiny Tokens of Affection: 7 Lovely Small Gift Ideas for Loved Ones",
+    "slug": "tiny-tokens-of-affection-7-lovely-small-gift-ideas-for-loved-ones",
+    "author": 1,
+    "body": "Sometimes, the simplest gestures can express love and appreciation in the most meaningful way. When you want to show someone how much you care, consider surprising them with a small, heartfelt gift.\r\n\r\nThese charming presents may be petite in size, but they carry enormous sentiment. Here are seven delightful small gift ideas to make your loved ones feel cherished.\r\n\r\nSmall Gift Ideas To Show A Lot of Love\r\n1. Handwritten Love Notes\r\nA heartfelt message penned on beautiful stationery can be a touching reminder of your love. Whether it’s a romantic note, a thoughtful poem, or a simple “I love you,” handwritten love notes evoke a sense of intimacy and nostalgia, making them the perfect tokens of affection.\r\n\r\n2. Mini Succulent Plants\r\nSucculents are not only easy to care for but also symbolize endurance and resilience. Present your loved one with a small potted succulent to brighten up their space and serve as a living testament to your enduring affection.\r\n\r\n3. 3D Photo Crystals\r\nCapture a precious moment in a unique and artistic way with 3D photo crystals. These remarkable keepsakes are created by laser etching a 2D photo into a crystal block, resulting in a three-dimensional effect that is both captivating and sentimental.\r\n\r\nMany websites offer the service of turning your cherished photographs into stunning 3D crystal creations, making it a thoughtful and visually stunning small gift for your loved one.\r\n\r\n4. Personalized Keychains\r\nA keychain may seem like a small, everyday item, but when it’s customized with a special date, initials, or a sentimental message, it becomes a cherished keepsake. Every time they reach for their keys, they’ll be reminded of your thoughtfulness and love.",
+    "publish": "2024-01-30T16:45:37Z",
+    "created": "2024-01-30T16:46:03.322Z",
+    "updated": "2024-02-01T12:53:24.478Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 10,
+  "fields": {
+    "title": "A Healthy Life: The Ultimate Wealth",
+    "slug": "a-healthy-life-the-ultimate-wealth",
+    "author": 2,
+    "body": "Health is the most valuable asset that we possess. It is the foundation of every chance and achievement in our lives, making it the most fundamental of our basic rights. \r\n\r\n## The Importance of Health\r\nGood health is not just about the absence of disease. It's a holistic concept that includes physical well-being, mental balance, and emotional stability. It's the key to living a productive life, meeting our goals, and making our dreams come true.\r\n\r\n## Healthy Habits\r\nAdopting healthy habits is crucial for maintaining good health. This includes balanced nutrition, regular exercise, adequate sleep, and stress management. \r\n\r\n- **Balanced Nutrition**: A balanced diet, rich in fruits, vegetables, lean proteins, and whole grains, provides the nutrients necessary for optimal body function.\r\n- **Regular Exercise**: Regular physical activity strengthens the heart, reduces the risk of many diseases, and promotes mental well-being.\r\n- **Adequate Sleep**: Quality sleep is essential for the body's repair processes and cognitive function.\r\n- **Stress Management**: Effective stress management techniques, such as meditation and mindfulness, can help maintain emotional and mental health.\r\n\r\n## Regular Check-ups\r\nRegular health check-ups are vital for early detection and treatment of potential health issues. They're an important part of preventive health care.\r\n\r\n## Conclusion\r\nIn conclusion, health is a state of complete physical, mental, and social well-being. It's a resource for everyday life, not just the objective of living. By adopting healthy habits and getting regular check-ups, we can enjoy a better quality of life and contribute positively to our communities.\r\n\r\nRemember, health is a relationship between you and your body. Take care of it as you would any valuable asset. After all, health is wealth!",
+    "publish": "2024-02-01T14:25:37Z",
+    "created": "2024-02-01T14:27:46.927Z",
+    "updated": "2024-02-02T09:21:34.834Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 12,
+  "fields": {
+    "title": "The Impact of Sports: A Comprehensive Overview",
+    "slug": "the-impact-of-sports-a-comprehensive-overview",
+    "author": 1,
+    "body": "Sports have been an integral part of human culture for centuries. They serve as a universal language, bringing people together from all walks of life. This blog aims to explore the history, impact, and future trends of sports.\r\n\r\n## Section 1: History of Sports\r\nSports have evolved significantly over the years. From the ancient Olympic Games in Greece to the modern-day World Cup, sports have always been a platform for competition and camaraderie.\r\n\r\n### Subsection 1.1: Evolution of Sports\r\nThe evolution of sports is a reflection of societal changes. As societies developed, so did the complexity and variety of sports. Today, there are hundreds of sports played worldwide, each with its unique set of rules and regulations.\r\n\r\n## Section 2: Impact of Sports\r\nSports have a profound impact on society and individuals. They promote physical health, mental well-being, and foster a sense of community.\r\n\r\n### Subsection 2.1: Physical Health Benefits\r\nParticipation in sports leads to improved cardiovascular health, increased strength and flexibility, and better coordination. Regular physical activity can also help prevent chronic diseases such as obesity, heart disease, and diabetes.\r\n\r\n### Subsection 2.2: Mental Health Benefits\r\nSports also have mental health benefits. They can reduce stress, improve mood, and boost self-esteem. Moreover, being part of a team can enhance social skills and foster a sense of belonging.\r\n\r\n## Section 3: Future of Sports\r\nThe future of sports is exciting. With advancements in technology, we can expect more immersive and engaging sports experiences. Virtual reality, for instance, is already transforming how we watch and participate in sports.\r\n\r\n## Conclusion\r\nSports have a far-reaching impact that extends beyond the playing field. They shape our bodies, minds, and societies in profound ways. As we look to the future, it's clear that sports will continue to evolve and inspire us in new and exciting ways.",
+    "publish": "2024-02-02T09:12:25Z",
+    "created": "2024-02-02T09:13:06.014Z",
+    "updated": "2024-02-02T09:21:58.603Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 1,
+  "fields": {
+    "post": 8,
+    "name": "Akash Sharma",
+    "email": "akashsharma.zak@gmail.com",
+    "body": "Very worthy content",
+    "created": "2024-01-31T13:08:53.290Z",
+    "updated": "2024-01-31T13:08:53.290Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 2,
+  "fields": {
+    "post": 8,
+    "name": "Aresh",
+    "email": "areshstar00@gmail.com",
+    "body": "thanks",
+    "created": "2024-01-31T13:09:22.744Z",
+    "updated": "2024-01-31T13:11:48.988Z",
+    "active": false
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 3,
+  "fields": {
+    "post": 9,
+    "name": "Manush",
+    "email": "akash@mail.com",
+    "body": "very useful content",
+    "created": "2024-02-01T11:42:56.995Z",
+    "updated": "2024-02-01T11:42:56.995Z",
+    "active": true
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 1,
+  "fields": {
+    "name": "django",
+    "slug": "django"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 2,
+  "fields": {
+    "name": "jazz",
+    "slug": "jazz"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 3,
+  "fields": {
+    "name": "music",
+    "slug": "music"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 4,
+  "fields": {
+    "name": "History",
+    "slug": "history"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 5,
+  "fields": {
+    "name": "Indian nationalist",
+    "slug": "indian-nationalist"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 8,
+  "fields": {
+    "name": "Indian",
+    "slug": "indian"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 9,
+  "fields": {
+    "name": "activist",
+    "slug": "activist"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 10,
+  "fields": {
+    "name": "Indian activist",
+    "slug": "indian-activist"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 11,
+  "fields": {
+    "name": "Life Style",
+    "slug": "life-style"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 12,
+  "fields": {
+    "name": "Food",
+    "slug": "food"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 13,
+  "fields": {
+    "name": "Health",
+    "slug": "health"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 14,
+  "fields": {
+    "name": "Life",
+    "slug": "life"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 15,
+  "fields": {
+    "name": "Love",
+    "slug": "love"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 16,
+  "fields": {
+    "name": "Media",
+    "slug": "media"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 17,
+  "fields": {
+    "name": "Social",
+    "slug": "social"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 18,
+  "fields": {
+    "name": "Media Social",
+    "slug": "media-social"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 19,
+  "fields": {
+    "name": "markdown",
+    "slug": "markdown"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 20,
+  "fields": {
+    "name": "Markdown",
+    "slug": "markdown_1"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 21,
+  "fields": {
+    "name": "Sports",
+    "slug": "sports"
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 1,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 3
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 4,
+  "fields": {
+    "tag": 4,
+    "content_type": 7,
+    "object_id": 4
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 5,
+  "fields": {
+    "tag": 5,
+    "content_type": 7,
+    "object_id": 4
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 10,
+  "fields": {
+    "tag": 10,
+    "content_type": 7,
+    "object_id": 5
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 11,
+  "fields": {
+    "tag": 11,
+    "content_type": 7,
+    "object_id": 6
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 12,
+  "fields": {
+    "tag": 12,
+    "content_type": 7,
+    "object_id": 7
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 13,
+  "fields": {
+    "tag": 13,
+    "content_type": 7,
+    "object_id": 7
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 14,
+  "fields": {
+    "tag": 14,
+    "content_type": 7,
+    "object_id": 9
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 15,
+  "fields": {
+    "tag": 15,
+    "content_type": 7,
+    "object_id": 9
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 18,
+  "fields": {
+    "tag": 18,
+    "content_type": 7,
+    "object_id": 8
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 19,
+  "fields": {
+    "tag": 13,
+    "content_type": 7,
+    "object_id": 10
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 20,
+  "fields": {
+    "tag": 14,
+    "content_type": 7,
+    "object_id": 10
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 22,
+  "fields": {
+    "tag": 20,
+    "content_type": 7,
+    "object_id": 12
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 23,
+  "fields": {
+    "tag": 21,
+    "content_type": 7,
+    "object_id": 12
+  }
+},
+{
+  "model": "sites.site",
+  "pk": 1,
+  "fields": {
+    "domain": "localhost:8000",
+    "name": "localhost:8000"
+  }
+}
+]
